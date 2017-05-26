@@ -24,7 +24,9 @@ A STRIPS program is a vector of strings defined as follows:
 This is the example used in the main function:
 
    Initial state: At(A), Level(low), BoxAt(C), BananasAt(B)
+   
    Goal:    Have(Bananas)
+   
    
    Actions:    // move from X to Y
                _Move(X, Y)_
