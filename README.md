@@ -1,6 +1,6 @@
 # STRIPS-Planner
 
-**Download contents of the "STRIPS" folder and run the executable with Command Prompt
+**Run the executable with Command Prompt
 
 Stanford Research Institute Problem Solver
 https://en.wikipedia.org/wiki/STRIPS
