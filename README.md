@@ -25,8 +25,8 @@ This is the example used in the main function:
 
    Initial state: At(A), Level(low), BoxAt(C), BananasAt(B)
    Goal:    Have(Bananas)
-   Actions:
-               // move from X to Y
+   
+   Actions:    // move from X to Y
                _Move(X, Y)_
                Preconditions:  At(X), Level(low)
                Effects: not At(X), At(Y)
