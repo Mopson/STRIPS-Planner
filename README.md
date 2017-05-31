@@ -1,5 +1,6 @@
 # STRIPS-Planner
 
+**Executable found in DEBUG folder in STRIPS folder, Header and Source Files also in STRIPS folder.
 **Run the executable with Command Prompt
 
 Stanford Research Institute Problem Solver
